@@ -1,3 +1,16 @@
+# Commit this file in the REAL url-shortener-frontend repository too.
+.git
+.github
 node_modules
 .next
-.env*
+out
+dist
+coverage
+.env
+.env.*
+!.env.example
+*.tfstate
+*.tfstate.*
+terraform
+*.log
+README.md
